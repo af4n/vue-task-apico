@@ -1,6 +1,6 @@
 ## Login
 ```
-bt@aitheon.com
+test@test.ua
 ```
 
 ### Password
